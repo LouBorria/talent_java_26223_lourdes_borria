@@ -1,3 +1,4 @@
+
 # API de Artículos: articulo_api_mysql_final
 
 ## Descripción
@@ -22,8 +23,10 @@ Proyecto de API REST desarrollado con Java y Spring Boot, conectado a una base d
 2. Configurar la conexión a MySQL.
 3. Ejecutar la aplicación Spring Boot.
 4. Probar los endpoints utilizando Postman.
-🎥 Video demostrativo
-En el siguiente video se muestra el funcionamiento de la API REST de artículos, desarrollada con Spring Boot y conectada a MySQL.
-Ver video:
+
+## 🎥 Video demostración
+En el siguiente video se muestra el funcionamiento del proyecto: 
+https://drive.google.com/file/d/18j9Utw6F0KJ1GaCg6GbdAc4qld1yDMWY/view?usp=sharing
+
 
 
